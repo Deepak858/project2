@@ -1,2 +1,2 @@
-# creation
-This is new repository create for Practise.
+# New-project
+This Project is new repository create for Practise from local system.
